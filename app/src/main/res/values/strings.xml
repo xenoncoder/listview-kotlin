@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bahasa Pemrograman</string>
+    <string name="judul_textview">Judul Bahasa Pemrograman</string>
+    <string name="dekripsi_textview">Deskripsi Bahasa Pemrograman</string>
+</resources>
